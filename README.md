@@ -91,6 +91,6 @@ The HTML includes:
 
 This project is proprietary. You may not copy, reproduce, distribute, modify, or create derivative works of this code without explicit written permission from the author.
 
-Contact: [CodeBoxLLC](https://codeboxllc.net/)
+<a href="https://codeboxllc.net/" target="_blank" rel="noopener">🌐 codeboxllc.net</a>   
 ---
 
