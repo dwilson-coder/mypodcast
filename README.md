@@ -1,6 +1,6 @@
 # MyPodcast
 
-![MyPodcast Preview](assets/preview.png)
+![MyPodcast Preview](https://raw.githubusercontent.com/dwilson-coder/mypodcast/refs/heads/main/assets/og.jpg)
 
 A professional podcast website built with vanilla HTML, CSS, and JavaScript. Inspired by the [WpCasterPro](https://wpcasterpro.qantumthemes.xyz/demo2/) podcast theme design.
 
